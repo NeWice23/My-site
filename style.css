@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fanwood+Text:ital@0;1&family=Farro:wght@300;400;500;700&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+* {
+    margin:0;
+}
+.razryv1 {
+    height:30px;
+}
+.post0 {
+    background-image: url(images/image199.jpg);
+    background-repeat:no-repeat;
+    display:flex;
+    justify-content:center;
+    border: 7px solid white;
+}
+.post0>* {
+    width:1800px;
+    font-size:32px;
+    color:white;
+    font-family:Bona Nova SC;
+    font-style:Static;
+    -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
+}
+body {
+    background-image: url(images/ultra.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+}
+.post  {
+  display:flex;
+  justify-content:center;
+}
+.razryv {
+  height: 350px;
+}
+.post1 {
+    background: linear-gradient(180deg, black 25%, red);
+    border:solid 7px white;
+    padding:10px 5%;
+    text-align:center;
+}
+.post1>* {
+    display:inline-block;
+    width:450px;
+    font-size:30px;
+    vertical-align:middle;
+    color:white;
+    font-family:Farro;
+    font-style:Light;
+    }
+    .razryv {
+        height:350px;
+    }
+    .post2 {
+    padding:10px 5%;
+    text-align:center;
+    background: linear-gradient(180deg, black 10%, yellowGreen, Goldenrod);
+    border:solid 7px white;
+}
+.post2>* {
+    display:inline-block;
+    width:450px;
+    font-size:30px;
+    vertical-align:middle;
+    color:white;
+    font-family:Farro;
+    font-style:Light;
+    }
+    .razryv {
+        height:350px;
+    }
+    .post3 {
+    padding:10px 5%;
+    text-align:center;
+    background: linear-gradient(180deg, black 10%, SteelBlue, LightGrey);
+    border:solid 7px white;
+}
+.post3>* {
+    display:inline-block;
+    width:450px;
+    font-size:30px;
+    vertical-align:middle;
+    color:white;
+    font-family:Fanwood Text;
+    font-style:Italic;
+    }
+    .razryv {
+        height:350px;
+    }
+    .post4 {
+        background:linear-gradient(black 25%, DeepSkyBlue);
+        padding:10px 5%;
+    text-align:center;
+    border:solid 7px white;
+}
+.post4>* {
+    display:inline-block;
+    width:600px;
+    font-size:30px;
+    vertical-align:middle;
+    color:white;
+    font-family:Philosopher;
+    font-style:Bold Italic;
+    }
+    .razryv {
+        height:350px;
+    }
+    .post5 {
+        padding:10px 5%;
+    text-align:center;
+    background:linear-gradient(black 2%, Gold, red);
+    border:solid 7px white
+}
+.post5>* {
+    display:inline-block;
+    width:600px;
+    font-size:30px;
+    vertical-align:middle;
+    color:white;
+    font-family:Philosopher;
+    font-style:Bold Italic;
+    }
+#faith {
+    background-image: url(images/image10.png);
+    padding:15% 30%;
+    background-size:cover;
+    background-attachment:fixed;
+    height:320px;
+    border: 7px solid white;
+}
+    .razryv1 {
+    height:30px;
+}
+article>div {
+    padding:10px;
+    background-color:white;
+    text-align:center;
+    font-size:30px;
+    color:black;
+    border: 4px solid rgb(0, 0, 0);
+}
+footer {
+    background-color:black;
+    padding:40px 0;
+    text-align:center;
+}
+a {
+    width:1px;
+    font-size:35px;
+display:flex;
+    align-content: space-between;   
+    color:white;
+    text-decoration:none;
+    display:inline;
+    margin:300px;
+}
